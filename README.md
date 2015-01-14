@@ -2,7 +2,8 @@
 
 Vancouver, British Columbia, Canada<br>
 Email: Victoria.A.Stuart@gmail.com<br>
-GitHub: https://github.com/victoriastuart
+GitHub: https://github.com/victoriastuart<br>
+<a href="cv.pdf">C.V.</a> (PDF)
 
 ##PERSONAL STATEMENT
 
