@@ -1,7 +1,7 @@
 #Curriculum vitae - Dr. Victoria A. Stuart, Ph.D.
 
 Vancouver, British Columbia, Canada<br>
-Email: Victoria.A.Stuart@gmail.com
+Email: Victoria.A.Stuart@gmail.com<br>
 GitHub: https://github.com/victoriastuart
 
 ##PERSONAL STATEMENT
