@@ -20,7 +20,7 @@ Just a test!  :-)
 **italic**
 >blockquote
 
-[link to VictoriaStuart.ca](http://VictoriaStuart.ca)
+[VictoriaStuart.ca](http://VictoriaStuart.ca)
 
 ## References
 
