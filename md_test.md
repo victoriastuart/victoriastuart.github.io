@@ -16,7 +16,7 @@ Just a test!  :-)
 
 ##h2 again
 
-*bold*/
+*bold*<br>
 **italic**
 >blockquote
 
