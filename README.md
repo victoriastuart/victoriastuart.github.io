@@ -81,6 +81,7 @@ Artificial Intelligence:
 
 Knowledge-Related:
 
+* metadata
 * graphical models
 * RDF triples; triplestores
 * relational data
