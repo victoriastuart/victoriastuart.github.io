@@ -13,10 +13,8 @@ In pursuit of this objective – building on a thorough grounding in biochemistr
 
 While I focus on genomics and genetics, my scientific interests include artificial intelligence, biology, biochemistry, bioinformatics, cancer, cellular signaling, diet, DNA metabolism, graphical models, health, knowledge stores, mathematics, metabolism, microbiology, molecular genetics, machine learning, natural language processing (NLP), networks (interactions; relational data), neuroscience, 'omics (all), physics, programming, statistics/probabilistic models, synthetic biology, ...<p>
 
-### Curriculum vitae (PDF):
+### Miscellany:
 
-[CV](cv.pdf)
+My [curriculum vitae](cv.pdf) (PDF)
 
-### Contact me
-
-[Victoria.A.Stuart@gmail.com](cv.pdf)
+E-mail: [Victoria.A.Stuart@gmail.com](cv.pdf)
