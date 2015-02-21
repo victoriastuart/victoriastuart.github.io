@@ -17,4 +17,4 @@ While I focus on genomics and genetics, my scientific interests include artifici
 
 My [curriculum vitae](cv.pdf) (PDF)
 
-[E-mail me](mailto:Victoria.A.Stuart@gmail.com)
+[E-mail me](mailto:Victoria.A.Stuart@gmail.com?subject=[f. VS.ca] )
