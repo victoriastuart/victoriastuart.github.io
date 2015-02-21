@@ -15,6 +15,6 @@ While I focus on genomics and genetics, my scientific interests include artifici
 
 ### Miscellany:
 
-My [curriculum vitae](cv.pdf) (PDF)
+My [curriculum vitae](../cv.pdf) (PDF)
 
-E-mail: [Victoria.A.Stuart@gmail.com](cv.pdf)
+[E-mail me](Victoria.A.Stuart@gmail.com)
