@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Introduction
+## Introduction
 
 My mission is to seek collaborative solutions to scientific and societal issues, addressing my vision of applying science and technology to the betterment of human health. Among my long-term goals is the advancement of knowledge in functional genomics: the phenotypic and functional expression of the information contained within genomes.<p><p>
 
