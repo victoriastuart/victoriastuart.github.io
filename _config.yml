@@ -11,7 +11,7 @@ name: Dr. Victoria A. Stuart, Ph.D.
 description: | 
   Vancouver, B.C., Canada<br>
   <!-- http://stackoverflow.com/questions/6734955/jekyll-liquid-how-to-add-large-blocks-of-text-to-yaml-front-matter -->
-  <!-- note also: could not use markdown urls []() or regular urls <a href=http:// ... in this header --?
+  <!-- note also: could not use markdown urls []() or regular urls <a href=http:// ... in this header -->
   github: https://github.com/victoriastuart/victoriastuart.github.io
      web: http://VictoriaStuart.ca
 
