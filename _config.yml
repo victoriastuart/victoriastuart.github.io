@@ -9,10 +9,10 @@ name: Dr. Victoria A. Stuart, Ph.D.
 
 # Short bio or description (displayed in the header)
 description: | 
- Vancouver, B.C., Canada<br>
- <!-- http://stackoverflow.com/questions/6734955/jekyll-liquid-how-to-add-large-blocks-of-text-to-yaml-front-matter -->
- [github](https://github.com/victoriastuart/victoriastuart.github.io)<br>
- [VictoriaStuart.ca](http://VictoriaStuart.ca)
+  Vancouver, B.C., Canada<br>
+  <!-- http://stackoverflow.com/questions/6734955/jekyll-liquid-how-to-add-large-blocks-of-text-to-yaml-front-matter -->
+  [github](https://github.com/victoriastuart/victoriastuart.github.io)<br>
+  [VictoriaStuart.ca](http://VictoriaStuart.ca)
 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
