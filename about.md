@@ -16,10 +16,10 @@ While I focus on genomics and genetics, my scientific interests include artifici
 My most recent (Jan 2014 - present) work predominantly revolves around:
 
 ### Genetics/Genomics:
-* functional genomics
-* molecular genetics
-* oncogenomics
-* pathways / networks
+  * functional genomics
+  * molecular genetics
+  * oncogenomics
+  * pathways / networks
 
 ### Artificial Intelligence:
 * clustering
