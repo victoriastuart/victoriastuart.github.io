@@ -18,8 +18,8 @@ html {
 }
 
 body {
-	background: $lightGray;
-  font: 16px/1.4 $helvetica;
+	background: $white;
+  font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
 
@@ -45,22 +45,22 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 28px;
+  font-size: 30px;
   a {
     color: inherit;
   }
 }
 
 h2 {
-  font-size: 22px;
+  font-size: 24px;
 }
 
 h3 {
-  font-size: 18px;
+  font-size: 20px;
 }
 
 h4 {
-  font-size: 16px;
+  font-size: 18px;
   color: $gray;
 }
 
@@ -190,7 +190,6 @@ img {
   }
 }
 
-// the "title"
 .site-name {
   margin: 0;
   color: $darkGray;
