@@ -9,7 +9,7 @@ Hello!  As indicated in [my C.V.](http://victoriastuart.ca/cv.pdf) (http://victo
 
 I possess a unique and well-honed wealth of knowledge and experience, reflecting my intellect and drive (passion for knowledge).  The summary below will provide a reasonably complete, if superficial overview of who I am and what drives my professional pursuits.
 
-I am currently free to pursue challenging opportunities that provide a "good fit" with short-term and long-term visions, on both sides.  I seek high-impact, visionary projects.  I am unencumbered by family/residence/debt, so I am free to relocate on short notice.
+I am currently free to pursue challenging opportunities that provide a "good fit" with short-term and long-term visions, on both sides.  I seek high-impact, visionary projects.  I am unencumbered by family/residence/debt, so I am free to relocate on short notice.  I also have much experience working remotely (e.g. my lengthy consultancy with the U.S. DoD).
 
 I possess a wealth of knowledge and experience in molecular genetics, spanning
 
