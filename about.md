@@ -5,9 +5,11 @@ permalink: /about/
 ---
 ## Introduction
 
-Hello!  As indicated in [my C.V.](http://victoriastuart.ca/cv.pdf) [](http://victoriastuart.ca/cv.pdf) I hold a Ph.D. in Biology (2000; specialization in molecular genetics), augmented with additional computational expertise.
+Hello!  As indicated in [my C.V.](http://victoriastuart.ca/cv.pdf) (http://victoriastuart.ca/cv.pdf) I hold a Ph.D. in Biology (2000; specialization in molecular genetics), augmented with additional computational expertise.
 
-I possess a unique and well-honed wealth of knowledge and experience, reflecting my intellect and drive (passion for knowledge).  The summary below will provide a reasonably complete, if superficial overview of who I am and what drives my professional pursuits.  I am currently free to pursue challenging opportunities that provide a "good fit" with short-term and long-term visions, on both sides.  I seek high-impact, visionary projects.  I am unencumbered by family/residence/debt, so I am free to relocate on short notice.
+I possess a unique and well-honed wealth of knowledge and experience, reflecting my intellect and drive (passion for knowledge).  The summary below will provide a reasonably complete, if superficial overview of who I am and what drives my professional pursuits.
+
+I am currently free to pursue challenging opportunities that provide a "good fit" with short-term and long-term visions, on both sides.  I seek high-impact, visionary projects.  I am unencumbered by family/residence/debt, so I am free to relocate on short notice.
 
 I possess a wealth of knowledge and experience in molecular genetics, spanning
 
@@ -29,8 +31,8 @@ and more recently programming experience including, in descending order of exper
  * some relational databasing (PostgreSQL)
  * some machine learning (computer vision; vector space models; ...)
  * basic, "hands-on" familiarity with:
-   ** webdev (HTML/JS/CSS)
-   ** Java (some basic scripting; IntelliJ IDEA ...).
+    * webdev (HTML/JS/CSS)
+    * Java (some basic scripting; IntelliJ IDEA ...).
 
 I am a moderate contributor to:
 
@@ -53,19 +55,19 @@ With personal, self-taught ML projects I implemented:
 Those were fun and rewarding projects, but my primary motivation in developing those skills and awareness was for supplemental, ML-based approaches to biomedical natural language processing (BioNLP) and bioinformatics; including:
 
  * classification:
-   ** RNN/LSTM (recurrent neural nets/long short-term memory-based models)
-   ** VSM (vector space models)
-   ** dimensionality reduction
-   ** ...
+    * RNN/LSTM (recurrent neural nets/long short-term memory-based models)
+    * VSM (vector space models)
+    * dimensionality reduction
+    * ...
  * knowledge discovery:
-   ** topic modeling
-   ** graph traversal
-   ** ...
+    * topic modeling
+    * graph traversal
+    * ...
  * BioNLP:
-   ** biomedical named entity recognition (BioNER)
-   ** dependency parsing, applied e.g. to: relation extraction (to populate
+    * biomedical named entity recognition (BioNER)
+    * dependency parsing, applied e.g. to: relation extraction (to populate
       RDBMS and derived knowledge graphs; ...)
-   ** semantic parsing, applied e.g. to question-answering; ...
+    * semantic parsing, applied e.g. to question-answering; ...
  * fact-checking; quality assurance ("noise" issues)
 
 These tools and approaches support my personal and professional goals, summarized below:
@@ -106,13 +108,13 @@ that in turn could guide, for example:
 My stepwise approach in this regard has been to model biochemical and molecular biology/genomics data, first/do date as:
 
  * backend:
-   ** indexed literature (Solr)
-   ** BioNLP
-   ** extract high-quality data/relations to a RDBMS (PostgreSQL)
-   ** "on-the-fly" population of a graphical model (Neo4j) from those data, in
+    * indexed literature (Solr)
+    * BioNLP
+    * extract high-quality data/relations to a RDBMS (PostgreSQL)
+    * "on-the-fly" population of a graphical model (Neo4j) from those data, in
       response to user queries
  * frontend:
-   ** GUIs: Carrot2 clustering/visualization engine; D3.js visualizations; ...
+    * GUIs: Carrot2 clustering/visualization engine; D3.js visualizations; ...
 
 Subsequent stages could involve
 
@@ -123,21 +125,15 @@ Subsequent stages could involve
 
 While those are ambitious goals, all of these aims are fully tractable (mostly in the near-term).
 
-Following a prolonged period of consulting work for the U.S. DoD (see my C.V.), I have been working full-time (self-supported) since 2015 toward these goals.  I believe those aims are also well-aligned with current research areas in biomedical literature processing, bioinformatics, molecular genetics, cancer genomics, pharma and personalized medicine that are of significant academic and commercial interest.
+Following a prolonged period of consulting work for the U.S. DoD (see my C.V.), I have been working full-time since 2015 toward these goals.  I believe those aims are also well-aligned with current research areas in biomedical literature processing, bioinformatics, molecular genetics, cancer genomics, pharma and personalized medicine that are of significant academic and commercial interest.
 
-As such, I am challenging opportunities in this regard.
-
-In closing, I possess superior technical (laboratory), communication (verbal; written), record-keeping and leadership skills.  I am an ambitious, imaginative, team-orientated, and reliable individual.
-
-If you find my expertise relevant to this, or perhaps another, position please do not hesitate to contact me.  I am willing and able to relocate, as needed (Canadian citizenship).
-
-Sincerely,
+If you find my expertise relevant to current positions, research projects etc. please do not hesitate to contact me.  I am able to work remotely (online), but I am also willing and able to relocate as needed (Canadian citizenship).
 
 Dr. Victoria A. Stuart, Ph.D.
 Vancouver, B.C.
 
 ## Miscellany:
 
-My [curriculum vitae](\.\./cv.pdf) (PDF)
+My [curriculum vitae](\.\./cv.pdf) (pdf)
 
 E-mail me [here](mailto:Victoria.A.Stuart@gmail.com)
