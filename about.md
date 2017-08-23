@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ## Introduction
 
-Hello!  As indicated in my C.V. (http://victoriastuart.ca/cv.pdf) I hold a Ph.D. in Biology (2000; specialization in molecular genetics), augmented with additional computational expertise.
+Hello!  As indicated in [my C.V.](http://victoriastuart.ca/cv.pdf) [](http://victoriastuart.ca/cv.pdf) I hold a Ph.D. in Biology (2000; specialization in molecular genetics), augmented with additional computational expertise.
 
 I possess a unique and well-honed wealth of knowledge and experience, reflecting my intellect and drive (passion for knowledge).  The summary below will provide a reasonably complete, if superficial overview of who I am and what drives my professional pursuits.  I am currently free to pursue challenging opportunities that provide a "good fit" with short-term and long-term visions, on both sides.  I seek high-impact, visionary projects.  I am unencumbered by family/residence/debt, so I am free to relocate on short notice.
 
