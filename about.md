@@ -45,9 +45,9 @@ Regarding machine learning (ML), for a period of ~1.5+ years (2015-2017) I immer
 With personal, self-taught ML projects I implemented:
 
  * an image captioning system
- * a webcam-based personal identification system: persons identified by name
+ * a [webcam-based personal identification system](https://github.com/victoriastuart/cv_facial_identification): persons identified by name
    with faces identified by bounding boxes with the persons name, probability
- * a web-cam-based classifier: backend: ImageNet top-five categories via a 50-
+ * a [webcam-based classifier](https://github.com/victoriastuart/keras_js_canvas_resnet-50): backend: ImageNet top-five categories via a 50-
    layer residual neural network (ResNet-50), + web browser frontend.
  * computer vision (webcam) age-gender classifier
  * other experiments ....
