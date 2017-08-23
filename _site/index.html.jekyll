@@ -46,11 +46,19 @@
 
     <article class="post">
 
-      <h1><a href="/Hello-World/">Hello, World!</a></h1>
+<!--
+      <h2><a href="/Hello-World/">Hello, World!</a></h1>
+-->
 
       <div class="entry">
-        <p>Hello,World!  I <em>just</em> converted my default (github-derived) <a href="http://VictoriaStuart.ca">victoriastuart.github.io</a> user page to a Jekyll-based website! More to follow ...</p>
+        <p>Hello, welcome to my webpage!  You can find out more about me, here:
 
+        <ul>
+            <li> <a href="cv.pdf">Curriculum vitae</a> (pdf)
+            <li> <a href="https://stackoverflow.com/users/1904943/victoria-stuart">StackOverflow</a>
+            <li> <a href="https://github.com/victoriastuart">GitHub</a>
+            <li> <a href="https://gist.github.com/victoriastuart">GitHub Gists</a>
+        </ul>
       </div>
 
       <a href="/Hello-World/" class="read-more">Read More</a>
