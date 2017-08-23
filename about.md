@@ -34,9 +34,9 @@ and more recently programming experience including, in descending order of exper
 
 I am a moderate contributor to:
 
- * StackOverflow: https://stackoverflow.com/users/1904943/victoria-stuart
- *        GitHub: https://github.com/victoriastuart
- *  GitHub Gists: https://gist.github.com/victoriastuart
+ * [StackOverflow](https://stackoverflow.com/users/1904943/victoria-stuart)
+ *        [GitHub](https://github.com/victoriastuart)
+ *  [GitHub Gists](https://gist.github.com/victoriastuart)
 
 Regarding machine learning (ML), for a period of ~1.5+ years (2015-2017) I immersed myself in that domain (arXiv; reddit ML subreddit; Y Combinator "Hacker News"; RSS feeds).  I can follow the literature, install and debug the major platforms (Theano; Caffe; Torch7; TensorFlow; etc.  I have posted contributions/solutions associated with various GitHub "Issues" and some StackOverflow.com questions, and I can clone and implement basic models as well as follow the recent literature (that is progressing at a staggering pace).
 
