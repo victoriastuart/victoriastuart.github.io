@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ## Introduction
 
-I hold a Ph.D. in Biology (2000; specialization in molecular genetics), augmented with considerable additional computational expertise.  The summary below provides a reasonably complete overview of me and my overlapping personal and professional pursuits.
+I hold a Ph.D. in Biology (2000; specialization in molecular genetics), augmented with considerable programmatic and computational expertise.  The summary below provides a reasonably complete overview of me and my overlapping personal and professional pursuits.
 
 I possess a unique and well-honed wealth of knowledge and experience, spanning
 
@@ -118,7 +118,7 @@ Subsequent stages could involve
  * constructing in silico models of metabolic and cellular signaling pathways,
    to aid personalized medicine and basic research ...
 
-I believe that all of these aims are fully tractable, and I have been working toward their realization.  I also believe those aims are also well-aligned with current research areas in biomedical literature processing, bioinformatics, molecular genetics, cancer genomics, pharma and personalized medicine that are of significant academic and commercial interest.
+I believe that all of these aims are fully tractable, and I have been working diligently toward their realization.  I also believe those aims are also well-aligned with current research areas in biomedical literature processing, bioinformatics, molecular genetics, cancer genomics, pharma and personalized medicine that are of significant academic and commercial interest.
 
 I am seeking challenging opportunities relevant to this, or related, work.  I like to pursue challenging opportunities and high-impact, visionary projects.  I am unencumbered by family/residence/debt, so I am free to relocate on short notice (Canadian citizenship).  I also have much experience working remotely; e.g., my lengthy consultancy with the U.S. DoD.
 
