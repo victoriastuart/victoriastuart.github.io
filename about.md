@@ -120,7 +120,7 @@ Subsequent stages could involve
 
 I believe that all of these aims are fully tractable, and I have been working toward their realization.  I also believe those aims are also well-aligned with current research areas in biomedical literature processing, bioinformatics, molecular genetics, cancer genomics, pharma and personalized medicine that are of significant academic and commercial interest.
 
-As such, I am challenging opportunities relating to this, or related work.  I like to pursue challenging opportunities and high-impact, visionary projects.  I am unencumbered by family/residence/debt, so I am free to relocate on short notice (Canadian citizenship).  I also have much experience working remotely; e.g., my lengthy consultancy with the U.S. DoD.
+I am seeking challenging opportunities relevant to this, or related, work.  I like to pursue challenging opportunities and high-impact, visionary projects.  I am unencumbered by family/residence/debt, so I am free to relocate on short notice (Canadian citizenship).  I also have much experience working remotely; e.g., my lengthy consultancy with the U.S. DoD.
 
 In closing, I possess superior technical (laboratory), communication (verbal; written), record-keeping and leadership skills.  I am an ambitious, imaginative, team-orientated, and reliable individual.
 
