@@ -19,7 +19,7 @@ and more recently programming experience including, in descending order of exper
  * Linux super-user
  * command-line, bash scripting expertise
  * Python; virtual environments
- * NLP: natural language programming
+ * NLP: natural language processing
  * Apache Solr: high-performance document indexing/storage/search (backend), +
    user GUI (frontend): Carrot2 clustering engine; D3.js visualizations
  * R ("GNU S"/CRAN)
