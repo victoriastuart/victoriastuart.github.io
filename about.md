@@ -5,13 +5,9 @@ permalink: /about/
 ---
 ## Introduction
 
-Hello!  As indicated in [my C.V.](http://victoriastuart.ca/cv.pdf) (http://victoriastuart.ca/cv.pdf) I hold a Ph.D. in Biology (2000; specialization in molecular genetics), augmented with additional computational expertise.
+I hold a Ph.D. in Biology (2000; specialization in molecular genetics), augmented with considerable additional computational expertise.  The summary below provides a reasonably complete overview of me and my overlapping personal and professional pursuits.
 
-I possess a unique and well-honed wealth of knowledge and experience, reflecting my intellect and drive (passion for knowledge).  The summary below will provide a reasonably complete, if superficial overview of who I am and what drives my professional pursuits.
-
-I am currently free to pursue challenging opportunities that provide a "good fit" with short-term and long-term visions, on both sides.  I seek high-impact, visionary projects.  I am unencumbered by family/residence/debt, so I am free to relocate on short notice.  I also have much experience working remotely (e.g. my lengthy consultancy with the U.S. DoD).
-
-I possess a wealth of knowledge and experience in molecular genetics, spanning
+I possess a unique and well-honed wealth of knowledge and experience, spanning
 
  * biochemistry; cell biology; metabolic pathways; cellular signaling pathways
  * molecular genetics and genomics, including cancer biology
@@ -36,10 +32,10 @@ and more recently programming experience including, in descending order of exper
 
 I am a moderate contributor to:
 
- * [StackOverflow](https://stackoverflow.com/users/1904943/victoria-stuart?tab=profile)
+ * [StackOverflow](https://stackoverflow.com/users/1904943/victoria-stuart)
  * [GitHub](https://github.com/victoriastuart)
  * [GitHub Gists](https://gist.github.com/victoriastuart)
- * [GitHub Issues](https://www.google.com/search?num=20&q=github+AND+%22victoriastuart+opened+this+Issue%22+OR+%22victoriastuart+referenced+this+issue%22+OR+%22victoriastuart+commented+on%22&oq=github+AND+%22victoriastuart+opened+this+Issue%22+OR+%22victoriastuart+referenced+this+issue%22+OR+%22victoriastuart+commented+on%22&gs_l=psy-ab.12...0.0.0.3196.0.0.0.0.0.0.0.0..0.0....0...1..64.psy-ab..0.0.0.XhmLQhgVmnc) { opened \| referenced \| commented }
+ * [GitHub Issues](https://www.google.com/search?num=20&q=github+AND+%22victoriastuart+opened+this+Issue%22+OR+%22victoriastuart+referenced+this+issue%22+OR+%22victoriastuart+commented+on%22&oq=github+AND+%22victoriastuart+opened+this+Issue%22+OR+%22victoriastuart+referenced+this+issue%22+OR+%22victoriastuart+commented+on%22&gs_l=psy-ab.12...0.0.0.3196.0.0.0.0.0.0.0.0..0.0....0...1..64.psy-ab..0.0.0.XhmLQhgVmnc) { opened | referenced | commented }
 
 Regarding machine learning (ML), for a period of ~1.5+ years (2015-2017) I immersed myself in that domain (arXiv; reddit ML subreddit; Y Combinator "Hacker News"; RSS feeds).  I can follow the literature, install and debug the major platforms (Theano; Caffe; Torch7; TensorFlow; etc.  I have posted contributions/solutions associated with various GitHub "Issues" and some StackOverflow.com questions, and I can clone and implement basic models as well as follow the recent literature (that is progressing at a staggering pace).
 
@@ -122,17 +118,19 @@ Subsequent stages could involve
  * constructing in silico models of metabolic and cellular signaling pathways,
    to aid personalized medicine and basic research ...
 
-While those are ambitious goals, all of these aims are fully tractable (mostly in the near-term).
+I believe that all of these aims are fully tractable, and I have been working toward their realization.  I also believe those aims are also well-aligned with current research areas in biomedical literature processing, bioinformatics, molecular genetics, cancer genomics, pharma and personalized medicine that are of significant academic and commercial interest.
 
-Following a prolonged period of consulting work for the U.S. DoD (see my C.V.), I have been working full-time since 2015 toward these goals.  I believe those aims are also well-aligned with current research areas in biomedical literature processing, bioinformatics, molecular genetics, cancer genomics, pharma and personalized medicine that are of significant academic and commercial interest.
+As such, I am challenging opportunities relating to this, or related work.  I like to pursue challenging opportunities and high-impact, visionary projects.  I am unencumbered by family/residence/debt, so I am free to relocate on short notice (Canadian citizenship).  I also have much experience working remotely; e.g., my lengthy consultancy with the U.S. DoD.
 
-If you find my expertise relevant to current positions, research projects etc. please do not hesitate to contact me.  I am able to work remotely (online), but I am also willing and able to relocate as needed (Canadian citizenship).
+In closing, I possess superior technical (laboratory), communication (verbal; written), record-keeping and leadership skills.  I am an ambitious, imaginative, team-orientated, and reliable individual.
+
+If you find my expertise relevant to this, or perhaps another, position please do not hesitate to contact me.
 
 Dr. Victoria A. Stuart, Ph.D.
 Vancouver, B.C.
 
 ## Miscellany:
 
-My [curriculum vitae](\.\./cv.pdf) (pdf)
+My [curriculum vitae](http://victoriastuart.ca/cv.pdf) (pdf)
 
 E-mail me [here](mailto:Victoria.A.Stuart@gmail.com)
