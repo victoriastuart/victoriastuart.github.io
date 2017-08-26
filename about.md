@@ -124,7 +124,7 @@ I am seeking challenging opportunities relevant to this, or related, work.  I li
 
 In closing, I possess superior technical (laboratory), communication (verbal; written), record-keeping and leadership skills.  I am an ambitious, imaginative, team-orientated, and reliable individual.
 
-If you find my expertise relevant to this, or perhaps another, position please do not hesitate to contact me.
+If you find my expertise relevant to this, or another position, please do not hesitate to contact me.  I am also  willing to offer my services as a Collaborator (academic; commercial).  I have experience collaborating and working online, but I am also willing and able to relocate, as needed.
 
 Dr. Victoria A. Stuart, Ph.D.
 Vancouver, B.C.
