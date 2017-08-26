@@ -120,10 +120,6 @@ Subsequent stages could involve
 
 I believe that all of these aims are fully tractable, and I have been working diligently toward their realization.  I also believe those aims are also well-aligned with current research areas in biomedical literature processing, bioinformatics, molecular genetics, cancer genomics, pharma and personalized medicine that are of significant academic and commercial interest.
 
-I am seeking challenging opportunities relevant to this, or related, work.  I like to pursue challenging opportunities and high-impact, visionary projects.  I am unencumbered by family/residence/debt, so I am free to relocate on short notice (Canadian citizenship).  I also have much experience working remotely; e.g., my lengthy consultancy with the U.S. DoD.
-
-In closing, I possess superior technical (laboratory), communication (verbal; written), record-keeping and leadership skills.  I am an ambitious, imaginative, team-orientated, and reliable individual.
-
 If you find my expertise relevant to this, or another position, please do not hesitate to contact me.  I am also  willing to offer my services as a Collaborator (academic; commercial).  I have experience collaborating and working online, but I am also willing and able to relocate, as needed.
 
 Dr. Victoria A. Stuart, Ph.D.
