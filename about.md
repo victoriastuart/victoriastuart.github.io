@@ -39,15 +39,15 @@ I am a moderate contributor to:
 
 Regarding machine learning (ML), for a period of ~1.5+ years (2015-2017) I immersed myself in that domain (arXiv; reddit ML subreddit; Y Combinator "Hacker News"; RSS feeds).  I can follow the literature, install and debug the major platforms (Theano; Caffe; Torch7; TensorFlow; etc.  I have posted contributions/solutions associated with various GitHub "Issues" and some StackOverflow.com questions, and I can clone and implement basic models as well as follow the recent literature (that is progressing at a staggering pace).
 
-With personal, self-taught ML projects I implemented:
+During that period I implemented various personal, self-taught ML [**projects**](/projects/index.html), including:
 
  * an image captioning system
- * a [webcam-based personal identification system](https://github.com/victoriastuart/cv_facial_identification): persons identified by name with faces identified by bounding boxes with the persons name, probability
- * a [webcam-based classifier](https://github.com/victoriastuart/keras_js_canvas_resnet-50): backend: ImageNet top-five categories via a 50-layer residual neural network (ResNet-50), + web browser frontend
+ * a webcam-based personal identification system: persons identified by name with faces identified by bounding boxes with the persons name, probability
+ * a webcam-based classifier: backend: ImageNet top-five categories via a 50-layer residual neural network (ResNet-50), + web browser frontend
  * computer vision (webcam) age-gender classifier
- * other experiments ....
+ * other experiments ...
 
-Those were fun and rewarding projects, but my primary motivation in developing those skills and awareness was for supplemental, ML-based approaches to biomedical natural language processing (BioNLP) and bioinformatics; including:
+That work was fun and rewarding, but my primary motivation in developing those skills and awareness was for supplemental, ML-based approaches to biomedical natural language processing (BioNLP) and bioinformatics; including:
 
  * classification:
     * RNN/LSTM (recurrent neural nets/long short-term memory-based models)
