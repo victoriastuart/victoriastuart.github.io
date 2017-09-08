@@ -35,7 +35,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-20770361-2
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
@@ -61,7 +61,10 @@ sass:
   style: :compressed # { expanded | :compressed } You might prefer to minify using :compressed
 
 # Use the following plug-ins
-gems:
+## bundle exec jekyll serve --incremental
+##   Deprecation: The 'gems' configuration option has been renamed to 'plugins'. Please update your config file accordingly.
+#gems:
+plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
 
 # Exclude these files from your production _site
