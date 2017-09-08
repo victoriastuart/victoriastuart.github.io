@@ -39,7 +39,7 @@ I am a moderate contributor to:
 
 Regarding machine learning (ML), for a period of ~1.5+ years (2015-2017) I immersed myself in that domain (arXiv; reddit ML subreddit; Y Combinator "Hacker News"; RSS feeds).  I can follow the literature, install and debug the major platforms (Theano; Caffe; Torch7; TensorFlow; etc.  I have posted contributions/solutions associated with various GitHub "Issues" and some StackOverflow.com questions, and I can clone and implement basic models as well as follow the recent literature (that is progressing at a staggering pace).
 
-During that period I implemented various personal, self-taught ML [**projects**](http://persagen.com/projects/), including:
+During that period I implemented various personal, self-taught ML [**projects**](http://persagen.com/about/victoria/projects.html), including:
 
  * an image captioning system
  * a webcam-based personal identification system: persons identified by name with faces identified by bounding boxes with the persons name, probability
